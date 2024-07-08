@@ -8,47 +8,57 @@ Welcome to the HR Analytics Dashboard for Atliq Technologies. This Power BI dash
 Dashboard Features
 1. Employee Demographics
    Gender Distribution: Visual representation of the gender ratio across the organization.
+
    Age Distribution: Breakdown of employees by age groups.
+
    Departmental Distribution: Number of employees in each department.
 
-2. Performance Metrics
+3. Performance Metrics
 Performance Ratings: Visualization of performance ratings across different departments and job roles.
+
 Training Hours: Total training hours completed by employees and their correlation with performance.
+
 Promotion Rates: Analysis of promotion rates across various departments and demographics.
 
-3. Attrition Analysis
+4. Attrition Analysis
+
 Attrition Rate: Monthly and yearly attrition rates.
+
 Attrition by Department: Departments with the highest and lowest attrition rates.
+
 Reasons for Leaving: Analysis of the most common reasons for employee departures.
 
-4. Employee Engagement
+5. Employee Engagement
+
 Survey Scores: Results from employee engagement surveys.
+
 Feedback Analysis: Text analysis of employee feedback for common themes and sentiments.
+
 Engagement Initiatives: Overview of initiatives taken to improve employee engagement and their impact.
 
 
-How to Use the Dashboard
+**How to Use the Dashboard**
 
-Prerequisites
-Microsoft Power BI Desktop or Power BI Service account.
+**Prerequisites
+Microsoft Power BI Desktop or Power BI Service account.**
 
-Opening the Dashboard
+1. Opening the Dashboard
 
-Download the HR Analytics Atliq_technologies.pbix file.
+2. Download the HR Analytics Atliq_technologies.pbix file.
 
-Open Microsoft Power BI Desktop.
+3. Open Microsoft Power BI Desktop.
 
-Click on File > Open and select the downloaded .pbix file.
+4. Click on File > Open and select the downloaded .pbix file.
 
-Navigating the Dashboard
+5. Navigating the Dashboard
 
-Use the tabs at the bottom to switch between different pages of the dashboard.
+6. Use the tabs at the bottom to switch between different pages of the dashboard.
 
-Hover over charts and graphs to see detailed information and tooltips.
+7. over over charts and graphs to see detailed information and tooltips.
 
-Use slicers and filters to drill down into specific data points or time periods.
+8. Use slicers and filters to drill down into specific data points or time periods.
 
-Data Sources
+**Data Sources**
 
 The data used in this dashboard is sourced from Atliq Technologies' internal HR systems, including:
 
@@ -65,6 +75,7 @@ For any questions or feedback, please contact the HR Analytics Team at hr-analyt
 Acknowledgments
 Thanks to the HR department at Atliq Technologies for providing the data and insights.
 Special thanks to the Power BI community for their invaluable resources and support.
+
 <img width="614" alt="image" src="https://github.com/rashmigondi/Power-BI/assets/143255079/ac75cb42-3184-4dba-939c-83d56c0dcfc1">
 
 
