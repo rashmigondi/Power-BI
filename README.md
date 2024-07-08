@@ -1,6 +1,6 @@
 **HR Analytics Dashboard for Atliq Technologies**
 
-Dashboard link - https://github.com/rashmigondi/Power-BI/tree/main
+
 
 Overview
 Welcome to the HR Analytics Dashboard for Atliq Technologies. This Power BI dashboard provides insights into various aspects of HR data, helping stakeholders make data-driven decisions. The dashboard covers key HR metrics such as employee demographics, performance, attrition rates, and more.
@@ -48,5 +48,6 @@ For any questions or feedback, please contact the HR Analytics Team at hr-analyt
 Acknowledgments
 Thanks to the HR department at Atliq Technologies for providing the data and insights.
 Special thanks to the Power BI community for their invaluable resources and support.
-<img width="601" alt="image" src="https://github.com/rashmigondi/Power-BI/assets/143255079/6f3a92e5-45fd-4b02-a5bc-f3e40146efcf">
+<img width="614" alt="image" src="https://github.com/rashmigondi/Power-BI/assets/143255079/ac75cb42-3184-4dba-939c-83d56c0dcfc1">
+
 
