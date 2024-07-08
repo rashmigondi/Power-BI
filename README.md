@@ -41,8 +41,7 @@ Training and Development Records
 Contact
 For any questions or feedback, please contact the HR Analytics Team at hr-analytics@atliqtech.com.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 Acknowledgments
 Thanks to the HR department at Atliq Technologies for providing the data and insights.
